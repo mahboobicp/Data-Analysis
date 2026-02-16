@@ -14,3 +14,9 @@ and includes the ticker name, volume, high, low, open and close prices.
 ### Opertion 
 - Data Cleaning
 - Transform Data into table named stockdata
+
+### Data before cleaning 
+
+![alt text][def]
+
+[def]: <Data Befor cleaning.png>
